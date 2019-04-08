@@ -6,16 +6,8 @@ h1 {
 	font-family: 'Georgia', 'serif';
 	font-size: 300%;
 }
-h1 {
-	border: dimgray;
-	padding: 30px;
-}
 p {
 	color: darkslategray;
 	font-family: 'Georgia', 'serif';
 	font-size: 150%;
-}
-p {
-	border: dimgray;
-	padding: 30px;
 }
