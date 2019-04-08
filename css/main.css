@@ -8,6 +8,7 @@ h1 {
 }
 h1 {
 	border: lavender;
+	padding: 30px;
 }
 p {
 	color: darkslategray;
@@ -15,5 +16,6 @@ p {
 	font-size: 200%;
 }
 p {
-	border: lavender
+	border: lavender;
+	padding: 30px;
 }
