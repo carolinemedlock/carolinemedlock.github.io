@@ -1,1 +1,19 @@
-
+body {
+	Background-color: mintcream;
+}
+h1 {
+	color: slateblue;
+	font-family: 'Georgia', 'serif'';
+	font-size: 150%;
+}
+h1 {
+	border: lavender;
+}
+p {
+	color: darkslategray;
+	font-family: 'Georgia', 'serif';
+	font-size: 75%;
+}
+p {
+	border: lavender
+}
